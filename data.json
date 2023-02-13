@@ -1,0 +1,44 @@
+[    {        "id": 1,   
+    "title": "first movie",  
+     "description": "This is a description of article 1.",    
+   "thumbnail_url": "https://example.com/article1_thumbnail.jpg"    },  
+
+ {        "id": 2,     
+  "title": "Article 2",   
+    "description": "This is a description of article 2.",   
+    "thumbnail_url": "https://example.com/article2_thumbnail.jpg"    }, 
+
+  {        "id": 3,   
+    "title": "Article 3",    
+   "description": "This is a description of article 3.",  
+     "thumbnail_url": "https://example.com/article3_thumbnail.jpg"    },
+
+     
+  {        "id": 3,   
+    "title": "Article 3",    
+   "description": "This is a description of article 3.",  
+     "thumbnail_url": "https://example.com/article3_thumbnail.jpg"    },
+     
+  {        "id": 3,   
+    "title": "Article 3",    
+   "description": "This is a description of article 3.",  
+     "thumbnail_url": "https://example.com/article3_thumbnail.jpg"    },
+     
+  {        "id": 3,   
+    "title": "Article 3",    
+   "description": "This is a description of article 3.",  
+     "thumbnail_url": "https://example.com/article3_thumbnail.jpg"    },
+     
+  {        "id": 3,   
+    "title": "Article 3",    
+   "description": "This is a description of article 3.",  
+     "thumbnail_url": "https://example.com/article3_thumbnail.jpg"    },
+     
+  {        "id": 3,   
+    "title": "Article 3",    
+   "description": "This is a description of article 3.",  
+     "thumbnail_url": "https://example.com/article3_thumbnail.jpg"    }
+    
+    
+    
+    ]
